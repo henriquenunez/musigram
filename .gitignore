@@ -1,0 +1,16 @@
+
+src/.vs/
+
+src/musigram/.vs/
+
+src/musigram/obj/
+
+src/musigram/bin/
+
+.vs/
+
+src/musigram/appsettings.json
+
+src/musigram/appsettings.Development.json
+
+src/musigram/Properties/launchSettings.json
